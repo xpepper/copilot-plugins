@@ -17,8 +17,13 @@ only the marketplace manifest (`.github/plugin/marketplace.json`) and this READM
 
 ```sh
 copilot plugin marketplace add xpepper/copilot-plugins
-copilot plugin install z-pr-review@<marketplace-name>
+copilot plugin install z-pr-review@xpepper-copilot-plugins
 ```
+
+The marketplace name is `xpepper-copilot-plugins` (the manifest's `name`
+field): a marketplace literally named `copilot-plugins` is rejected by the
+CLI because it collides with the built-in default marketplace of the same
+name (verified live 2026-09-13, Copilot CLI 1.0.83).
 
 (Extensions currently need `--experimental` when starting Copilot CLI; see each
 plugin's repository.)

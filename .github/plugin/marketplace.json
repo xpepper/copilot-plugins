@@ -1,5 +1,5 @@
 {
-  "name": "copilot-plugins",
+  "name": "xpepper-copilot-plugins",
   "metadata": {
     "description": "Marketplace index for Pietro Di Bello's GitHub Copilot CLI plugins",
     "version": "0.1.0"
