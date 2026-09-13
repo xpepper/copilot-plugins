@@ -33,6 +33,34 @@
         "path": ".",
         "ref": "v0.2.5"
       }
+    },
+    {
+      "name": "gem-pr-review",
+      "description": "Parallel, multi-lens AI code review for GitHub pull requests.",
+      "version": "0.3.3",
+      "author": {
+        "name": "Pietro Di Bello",
+        "url": "https://github.com/xpepper"
+      },
+      "homepage": "https://github.com/xpepper/pr-review-gemini",
+      "keywords": [
+        "copilot",
+        "copilot-cli",
+        "agent-plugin",
+        "agent-skills",
+        "gem-pr-review",
+        "pr-review",
+        "code-review",
+        "ai-code-review"
+      ],
+      "license": "MIT",
+      "repository": "https://github.com/xpepper/pr-review-gemini",
+      "source": {
+        "source": "github",
+        "repo": "xpepper/pr-review-gemini",
+        "path": ".",
+        "ref": "v0.3.3"
+      }
     }
   ]
 }

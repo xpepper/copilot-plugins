@@ -17,6 +17,7 @@ only the marketplace manifest (`.github/plugin/marketplace.json`) and this READM
 
 ```sh
 copilot plugin marketplace add xpepper/copilot-plugins
+copilot plugin install gem-pr-review@xpepper-copilot-plugins
 copilot plugin install z-pr-review@xpepper-copilot-plugins
 ```
 
@@ -32,7 +33,12 @@ plugin's repository.)
 
 | Plugin | Version | Source |
 | --- | --- | --- |
-| [z-pr-review](https://github.com/xpepper/pr-review-glm) | 0.2.5 | [xpepper/pr-review-glm](https://github.com/xpepper/pr-review-glm) (root) |
+| [gem-pr-review](https://github.com/xpepper/pr-review-gemini) | 0.3.3 | [xpepper/pr-review-gemini](https://github.com/xpepper/pr-review-gemini) (root, tag `v0.3.3`) |
+| [z-pr-review](https://github.com/xpepper/pr-review-glm) | 0.2.5 | [xpepper/pr-review-glm](https://github.com/xpepper/pr-review-glm) (root, tag `v0.2.5`) |
+
+Parallel, multi-lens AI code review for GitHub pull requests, built on the
+Agent Plugins 1.0 standard (`gem-pr-review`): parallel review lenses,
+host-gated publication of findings.
 
 Parallel tiered pull-request review for GitHub Copilot CLI (port of
 [pi-pr-review](https://github.com/10ego/pi-pr-review)): code-owned gates,
