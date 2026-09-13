@@ -8,7 +8,7 @@ only the marketplace manifest (`.github/plugin/marketplace.json`) and this READM
 
 - Real plugins live in **their own repositories** and are referenced here with the
   external source form (`{"source": "github", "repo": "owner/repo", "path": "..."}`).
-  Installing a plugin from this marketplace installs it **from its own repository**.
+  Installing a plugin from this marketplace installs it **from its own repository**, pinned to the release tag named by the entry's `source.ref` (ref pinning verified honored by `copilot plugin install/update`).
 - `./plugins/<name>` directories in this repository are **reserved for small,
   self-contained packs** that are not worth a repository of their own. None yet.
 - Both forms may mix, as GitHub's own marketplace does.
@@ -32,7 +32,7 @@ plugin's repository.)
 
 | Plugin | Version | Source |
 | --- | --- | --- |
-| [z-pr-review](https://github.com/xpepper/pr-review-glm) | 0.2.4 | [xpepper/pr-review-glm](https://github.com/xpepper/pr-review-glm) (root) |
+| [z-pr-review](https://github.com/xpepper/pr-review-glm) | 0.2.5 | [xpepper/pr-review-glm](https://github.com/xpepper/pr-review-glm) (root) |
 
 Parallel tiered pull-request review for GitHub Copilot CLI (port of
 [pi-pr-review](https://github.com/10ego/pi-pr-review)): code-owned gates,

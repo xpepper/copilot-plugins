@@ -12,7 +12,7 @@
     {
       "name": "z-pr-review",
       "description": "Parallel tiered pull-request review for GitHub Copilot CLI (port of pi-pr-review): code-owned gates, host-validated findings, gated COMMENT publication.",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "author": {
         "name": "Pietro Di Bello",
         "url": "https://github.com/xpepper"
@@ -31,7 +31,7 @@
         "source": "github",
         "repo": "xpepper/pr-review-glm",
         "path": ".",
-        "ref": "v0.2.4"
+        "ref": "v0.2.5"
       }
     }
   ]
