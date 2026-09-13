@@ -1,0 +1,37 @@
+{
+  "name": "copilot-plugins",
+  "metadata": {
+    "description": "Marketplace index for Pietro Di Bello's GitHub Copilot CLI plugins",
+    "version": "0.1.0"
+  },
+  "owner": {
+    "name": "Pietro Di Bello",
+    "email": "pierodibello@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "z-pr-review",
+      "description": "Parallel tiered pull-request review for GitHub Copilot CLI (port of pi-pr-review): code-owned gates, host-validated findings, gated COMMENT publication.",
+      "version": "0.2.4",
+      "author": {
+        "name": "Pietro Di Bello",
+        "url": "https://github.com/xpepper"
+      },
+      "homepage": "https://github.com/xpepper/pr-review-glm",
+      "keywords": [
+        "pr-review",
+        "code-review",
+        "copilot",
+        "github",
+        "tiered-review"
+      ],
+      "license": "MIT",
+      "repository": "https://github.com/xpepper/pr-review-glm",
+      "source": {
+        "source": "github",
+        "repo": "xpepper/pr-review-glm",
+        "path": "."
+      }
+    }
+  ]
+}
