@@ -33,7 +33,7 @@ plugin's repository.)
 
 | Plugin | Version | Source |
 | --- | --- | --- |
-| [gem-pr-review](https://github.com/xpepper/pr-review-gemini) | 0.3.3 | [xpepper/pr-review-gemini](https://github.com/xpepper/pr-review-gemini) (root, tag `v0.3.3`) |
+| [gem-pr-review](https://github.com/xpepper/pr-review-gemini) | 0.4.0 | [xpepper/pr-review-gemini](https://github.com/xpepper/pr-review-gemini) (root, tag `v0.4.0`) |
 | [z-pr-review](https://github.com/xpepper/pr-review-glm) | 0.2.5 | [xpepper/pr-review-glm](https://github.com/xpepper/pr-review-glm) (root, tag `v0.2.5`) |
 
 Parallel, multi-lens AI code review for GitHub pull requests, built on the
