@@ -61,6 +61,30 @@
         "path": ".",
         "ref": "v0.3.3"
       }
+    },
+    {
+      "name": "copilot-pr-review",
+      "description": "Reviews a GitHub pull request with parallel Copilot specialists, validates the findings against the reviewed revision, and publishes the ones you select as inline COMMENT review comments.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Pietro Di Bello",
+        "url": "https://github.com/xpepper"
+      },
+      "homepage": "https://github.com/xpepper/copilot-pr-review",
+      "keywords": [
+        "pr-review",
+        "code-review",
+        "copilot",
+        "github"
+      ],
+      "license": "MIT",
+      "repository": "https://github.com/xpepper/copilot-pr-review",
+      "source": {
+        "source": "github",
+        "repo": "xpepper/copilot-pr-review",
+        "path": ".",
+        "ref": "v0.1.0"
+      }
     }
   ]
 }
