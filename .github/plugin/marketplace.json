@@ -37,7 +37,7 @@
     {
       "name": "gem-pr-review",
       "description": "Parallel, multi-lens AI code review for GitHub pull requests.",
-      "version": "0.3.3",
+      "version": "1.0.1",
       "author": {
         "name": "Pietro Di Bello",
         "url": "https://github.com/xpepper"
@@ -59,7 +59,7 @@
         "source": "github",
         "repo": "xpepper/pr-review-gemini",
         "path": ".",
-        "ref": "v0.3.3"
+        "ref": "v1.0.1"
       }
     },
     {
