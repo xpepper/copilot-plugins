@@ -33,6 +33,7 @@ plugin's repository.)
 
 | Plugin | Version | Source |
 | --- | --- | --- |
+| [copilot-pr-review](https://github.com/xpepper/copilot-pr-review) | 0.1.0 | [xpepper/copilot-pr-review](https://github.com/xpepper/copilot-pr-review) (root, tag `v0.1.0`) |
 | [gem-pr-review](https://github.com/xpepper/pr-review-gemini) | 0.4.0 | [xpepper/pr-review-gemini](https://github.com/xpepper/pr-review-gemini) (root, tag `v0.4.0`) |
 | [z-pr-review](https://github.com/xpepper/pr-review-glm) | 0.2.7 | [xpepper/pr-review-glm](https://github.com/xpepper/pr-review-glm) (root, tag `v0.2.7`) |
 
