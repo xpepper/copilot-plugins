@@ -65,7 +65,7 @@
     {
       "name": "copilot-pr-review",
       "description": "Reviews a GitHub pull request with parallel Copilot specialists, validates the findings against the reviewed revision, and publishes the ones you select as inline COMMENT review comments.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "author": {
         "name": "Pietro Di Bello",
         "url": "https://github.com/xpepper"
@@ -83,7 +83,7 @@
         "source": "github",
         "repo": "xpepper/copilot-pr-review",
         "path": ".",
-        "ref": "v0.1.0"
+        "ref": "v0.2.0"
       }
     }
   ]
