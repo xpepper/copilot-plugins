@@ -34,7 +34,7 @@ plugin's repository.)
 | Plugin | Version | Source |
 | --- | --- | --- |
 | [copilot-pr-review](https://github.com/xpepper/copilot-pr-review) | 0.2.0 | [xpepper/copilot-pr-review](https://github.com/xpepper/copilot-pr-review) (root, tag `v0.2.0`) |
-| [gem-pr-review](https://github.com/xpepper/pr-review-gemini) | 1.0.1 | [xpepper/pr-review-gemini](https://github.com/xpepper/pr-review-gemini) (root, tag `v1.0.1`) |
+| [gem-pr-review](https://github.com/xpepper/pr-review-gemini) | 1.0.2 | [xpepper/pr-review-gemini](https://github.com/xpepper/pr-review-gemini) (root, tag `v1.0.2`) |
 | [z-pr-review](https://github.com/xpepper/pr-review-glm) | 0.2.7 | [xpepper/pr-review-glm](https://github.com/xpepper/pr-review-glm) (root, tag `v0.2.7`) |
 
 Parallel, multi-lens AI code review for GitHub pull requests, built on the
